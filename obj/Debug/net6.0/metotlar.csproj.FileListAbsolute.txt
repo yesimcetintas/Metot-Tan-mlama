@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/bin/Debug/net6.0/metotlar
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/bin/Debug/net6.0/metotlar.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/bin/Debug/net6.0/metotlar.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/bin/Debug/net6.0/metotlar.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/bin/Debug/net6.0/metotlar.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/refint/metotlar.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/metotlar.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metotlar/obj/Debug/net6.0/ref/metotlar.dll
